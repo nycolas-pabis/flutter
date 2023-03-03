@@ -28,3 +28,33 @@ void main(){
   
   
 }
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+void main(){
+  
+  var nome = "nycola";
+  
+  if( nome == "nycolau"){
+    print('valor da variável correto!');
+  }else{
+    print('valor da variável incorreto!');
+    
+    
+  }
+  
+  
+  
+  
+}
